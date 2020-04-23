@@ -1,4 +1,4 @@
-class CommandFS < Formula
+class CommandFs < Formula
   desc "Tool to create FS where each file is processed"
   homepage "https://github.com/AlexeyDmitriev/command_fs"
   version "0.1"
