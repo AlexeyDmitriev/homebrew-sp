@@ -17,7 +17,7 @@ class CommandFs < Formula
       args = std_cmake_args
       args << ".."
       system "cmake", "-G", "Ninja", *args
-      system "ninja" "command_fs"
+      system "ninja", "command_fs"
       bin.install "command_fs"
     end
   end
