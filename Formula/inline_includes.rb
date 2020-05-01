@@ -1,4 +1,4 @@
-class CommandFs < Formula
+class InlineIncludes < Formula
   desc "Script to inline includes"
   homepage "https://github.com/AlexeyDmitriev/inline_includes"
   version "1.0"
