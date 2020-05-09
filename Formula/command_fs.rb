@@ -1,10 +1,10 @@
 class CommandFs < Formula
   desc "Tool to create FS where each file is processed"
   homepage "https://github.com/AlexeyDmitriev/command_fs"
-  version "0.1"
+  version "0.2"
 
   url "https://github.com/AlexeyDmitriev/command_fs.git",
-    :tag=> "v0.1"
+    :tag=> "v0.2"
 
   head "https://github.com/AlexeyDmitriev/command_fs.git"
 
